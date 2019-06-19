@@ -1,7 +1,7 @@
 # Automated-Sewer-Inspection-Using-Multiclass-Convolutional-Neural-Networks
 
 This is a research paper that I, along with one other co-author, worked on over the past year (September, 2018 - Currently). 
-I, along with my partner, are trying to get this paper published, thus actively iterating on the implementation of detecting defects in sewer pipes. 
+I, along with my partner, are trying to get this paper published, thus actively iterating on the paper's implementation of detecting defects in sewer pipes. 
 
 
 Brief Description:
